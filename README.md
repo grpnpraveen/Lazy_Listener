@@ -19,7 +19,7 @@ This Lazy_Listener made by me
 
 ⁜ while entering the path remember to enter like shown in the below example
 				for_example: 
-					C:\Users\xxxx\Desktop\folder_name\xxx.txt
+					enter--------->C:\Users\xxxx\Desktop\folder_name\xxx.txt
 
 ⁜Also you can listen online  stories (using websites like:-------->  http://textfiles.com/stories/	)
 								
