@@ -18,7 +18,8 @@ This Lazy_Listener made by me
 ⁜There are two options to listen to the files ,they are local(need to enter entire path) and online files
 
 ⁜ while entering the path remember to enter like shown in the below example
-				for_example: C:\Users\xxxx\Desktop\folder_name\xxx.txt
+				for_example: 
+					C:\Users\xxxx\Desktop\folder_name\xxx.txt
 
 ⁜Also you can listen online  stories (using websites like:-------->  http://textfiles.com/stories/	)
 								
