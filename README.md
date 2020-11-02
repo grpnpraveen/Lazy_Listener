@@ -8,6 +8,7 @@ This Lazy_Listener made by me
 ---------while using this  Lazy_Listener application  
 
 				+++ points to remember ++++
+⁜ There will be no shortcut generated so you have to open the application directly
 
 ⁜ Remember user name will be asked only once (when you open application for first time)
 
