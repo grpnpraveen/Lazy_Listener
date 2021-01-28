@@ -35,6 +35,8 @@ This Lazy_Listener(v 0.9) made by me
 
 
 
-=======================SUPPORT AND SHARE  ---------------will get new version soon (in development ✨😎😎😎✨)✔✔✔
+=======================SUPPORT AND SHARE  
+
+---------------will get new version soon (in development ✨😎😎😎✨)✔✔✔
 
 
