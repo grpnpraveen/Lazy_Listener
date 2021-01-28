@@ -16,7 +16,7 @@ This Lazy_Listener(v 0.9) made by me
 
 ⁜ If you want to change the username open username.txt and type your name(available only for  present version)
 
-⁜You will be asked to select ___MALE ||||| __FEMALE VOICE
+⁜You will be asked to select ___MALE (or) __FEMALE VOICE
 
 ⁜There are two options to listen to the files ,they are local(need to enter entire path) and online files
 
