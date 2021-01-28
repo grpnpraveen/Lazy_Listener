@@ -5,11 +5,7 @@ Hey Guys,
 
 This Lazy_Listener(v 0.9) made by me 
 					i.e	 _@grpnpraveen(github)😎😎😎😎😎   		and  			_@Adult Engineering (youtube channel)😘😘😘😘
-
-
-
-
----------while using this  Lazy_Listener application  
+ 
 
 				+++ points to remember ++++
 ⁜Just run the installer
